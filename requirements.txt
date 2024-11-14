@@ -1,0 +1,4 @@
+python-telegram-bot
+python-gitlab
+jira
+python-dotenv 
